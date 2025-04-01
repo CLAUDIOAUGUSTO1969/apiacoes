@@ -16,4 +16,4 @@ Este é um projeto de estudo para consumo de dados de cotação de ações na bo
 * API Alpha Vantage
 
 ## Sobre:
-Esse projeto de exemplo foi desenvolvido por [Sérgio Lacerda](https://www.linkedin.com/in/sergiolacerda).
+Esse projeto de exemplo foi desenvolvido por Claudio Augusto
